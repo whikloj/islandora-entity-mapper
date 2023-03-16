@@ -1,5 +1,5 @@
 {
-  "name": "islandora/entity-mapper",
+  "name": "whikloj/islandora-fedora-entity-mapper",
   "description": "Drupal <-> Fedora Entity Mapper",
   "type": "library",
   "homepage": "https://github.com/Islandora/islandora-entity-mapper",
