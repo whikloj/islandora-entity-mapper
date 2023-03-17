@@ -1,8 +1,8 @@
 {
-  "name": "whikloj/islandora-fedora-entity-mapper",
+  "name": "islandora/fedora-entity-mapper",
   "description": "Drupal <-> Fedora Entity Mapper",
   "type": "library",
-  "homepage": "https://github.com/Islandora/islandora-entity-mapper",
+  "homepage": "https://github.com/Islandora/islandora-fedora-entity-mapper",
   "support": {
     "issues": "https://github.com/Islandora/documentation/issues"
   },
